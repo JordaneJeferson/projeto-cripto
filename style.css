@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(252, 247, 247);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+.Noticiasrecentes,
+.SobreCriptomoedas {
+    font-size: 25px;
+    color: rgb(218, 161, 77);
+}
+
+.tituloprincipal {
+    font-size: 35px;
+    color: rgb(218, 161, 77);
+    background-color: black;
+    text-align: center;
+}
+
+.conteiner {
+    width: 50%;
+    
+}
+
+.imagemdireita {
+    width: 50%;
+    float: right;
+}
+
+.imagemdireita img {
+    margin-top: -740px;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    
+
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+}
